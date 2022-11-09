@@ -1,0 +1,25 @@
+/* .list_box {
+  width: 100%;
+  max-width: 800px;
+} */
+.form {
+  margin-top: 50px;
+  padding: 20px;
+}
+.list {
+  background-color: rgb(66, 170, 184);
+}
+.list {
+  display: flex;
+  justify-content: space-between;
+}
+.movie_card {
+  margin-top: 20px;
+  width: 200px;
+  min-height: 260px;
+  background-color: rgb(224, 235, 245);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
